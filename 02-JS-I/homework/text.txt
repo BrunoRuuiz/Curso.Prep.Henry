@@ -1,3 +1,9 @@
 hola 
 soy bruno 
 estudio en HENRY
+
+var a = 1
+var a = 1+1
+var a = 2
+
+console.log ('hola, como vas)
